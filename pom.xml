@@ -42,7 +42,7 @@
             <version>${jasperserver-dto.version}</version>
         </dependency>
 
-        <!-- Jersey-->
+        <!-- Jersey -->
         <dependency>
             <groupId>org.glassfish.jersey.core</groupId>
             <artifactId>jersey-client</artifactId>
